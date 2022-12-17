@@ -1,0 +1,15 @@
+{
+  "compilerOptions": {
+    "module": "esnext",
+    "rootDir": "src",
+    "outDir": "build",
+    "target": "esnext",
+    "strict": true,
+    "noImplicitAny": false,
+    "lib": ["esnext", "es6", "dom", "dom.iterable"],
+    "moduleResolution": "Node",
+    "pretty": true,
+    "jsx": "preserve",
+    "resolveJsonModule": true
+  }
+}
